@@ -1,6 +1,6 @@
 {
   "name": "yatsg",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Yet Another TSconfig Generator. Nothing more.",
   "preferGlobal": true,
   "main": "src/index.js",
