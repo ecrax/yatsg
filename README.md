@@ -1,4 +1,4 @@
-# yatg
+# yatsg
 
 **Y** - et \
 **A** - another \
