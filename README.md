@@ -3,6 +3,6 @@
 **Y** - et \
 **A** - another \
 **TS** - config \
-**G** - enerator \
+**G** - enerator
 
 As simple as it sounds.
