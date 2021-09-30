@@ -1,0 +1,32 @@
+{
+  "name": "yatsg",
+  "version": "1.0.1",
+  "description": "Yet Another TSconfig Generator. Nothing more.",
+  "preferGlobal": true,
+  "main": "src/index.js",
+  "bin": {
+    "create-tsconfig": "src/index.js"
+  },
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "tsconfig",
+    "tsconfig.json",
+    "typescript",
+    "ts"
+  ],
+  "author": "ecrax",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^8.1.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ecrax/yatsg.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ecrax/yatsg/issues"
+  },
+  "homepage": "https://github.com/ecrax/yatsg"
+}
